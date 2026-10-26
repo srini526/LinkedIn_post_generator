@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-groq
+python-dotenv
+streamlit>=1.39.0
+
+langchain-community
+langchain-text-splitters
+langchain-Cloudflare
+sentence-transformers
+faiss-cpu
+pypdf
+
+langchain-tavily
